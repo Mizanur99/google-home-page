@@ -114,6 +114,6 @@ section .footer .row ul li{
 section .footer .row ul li a{
     text-decoration: none;
     font-size: 14px;
-    color: #5f6368;
+    color: steelblue;
     margin-right: 25px;
 }
